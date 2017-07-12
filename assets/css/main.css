@@ -1,0 +1,15 @@
+a{
+	display: block;
+}
+
+#before{
+	position: fixed;
+	top: 40%;
+	left: 0;
+}
+
+#after{
+	position: fixed;
+	top: 40%;
+	right: 0;
+}
